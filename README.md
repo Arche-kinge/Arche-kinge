@@ -32,7 +32,7 @@
 ## My Skills for app
 ![My Skills](https://skillicons.dev/icons?i=vue,python)
 
-(https://skillicons.dev/icons?i=unity,)
+![My Skills](https://skillicons.dev/icons?i=unity,)
 
 
 ![]()
